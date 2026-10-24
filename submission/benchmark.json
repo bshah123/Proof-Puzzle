@@ -1,0 +1,72 @@
+{
+  "measured_at": "2026-10-24T21:17:36.972110+05:30",
+  "system": "Darwin",
+  "architecture": "arm64",
+  "lean": "4.19.0",
+  "method": "One uncached proof per level after rules precompilation, followed by one cache hit. Local Python API timings; no browser or HTTP latency.",
+  "results": [
+    {
+      "level": 1,
+      "lean_ms": 148.22,
+      "cached_ms": 0.35,
+      "axioms": [
+        "propext",
+        "Quot.sound"
+      ]
+    },
+    {
+      "level": 2,
+      "lean_ms": 179.53,
+      "cached_ms": 0.44,
+      "axioms": [
+        "propext",
+        "Quot.sound"
+      ]
+    },
+    {
+      "level": 3,
+      "lean_ms": 185.51,
+      "cached_ms": 0.46,
+      "axioms": [
+        "propext",
+        "Quot.sound"
+      ]
+    },
+    {
+      "level": 4,
+      "lean_ms": 181.31,
+      "cached_ms": 0.39,
+      "axioms": [
+        "propext",
+        "Quot.sound"
+      ]
+    },
+    {
+      "level": 5,
+      "lean_ms": 195.37,
+      "cached_ms": 0.47,
+      "axioms": [
+        "propext",
+        "Quot.sound"
+      ]
+    },
+    {
+      "level": 6,
+      "lean_ms": 257.07,
+      "cached_ms": 0.56,
+      "axioms": [
+        "propext",
+        "Quot.sound"
+      ]
+    },
+    {
+      "level": 7,
+      "lean_ms": 247.88,
+      "cached_ms": 0.49,
+      "axioms": [
+        "propext",
+        "Quot.sound"
+      ]
+    }
+  ]
+}
